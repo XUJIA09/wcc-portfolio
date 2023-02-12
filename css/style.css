@@ -75,7 +75,13 @@ footer{
 /* .flex-item a#my-special-id{
     background-image: url(../assets/images/custom-image-name.jpeg); 
 } */
+.flex-item a#Environment{
+    background-image: url(../assets/images/environment.jpg); 
+}
 
+.flex-item a#treasure-hunt{
+    background-image: url(../assets/images/treasure\ hunting.jpg); 
+}
 
 .flex-item a:hover{
     color:#bbbbbb;
