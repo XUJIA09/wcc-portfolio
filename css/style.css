@@ -189,6 +189,18 @@ img{
     background-image: url(../assets/images/pull.jpg); 
 }
 
+.flex-item a#group{
+    background-image: url(../assets/images/group.jpg); 
+}
+
+.flex-item a#orc{
+    background-image: url(../assets/images/orc.jpg); 
+}
+
+.flex-item a#spark{
+    background-image: url(../assets/images/spark.jpg); 
+}
+
 .flex-item a:hover{
     color:#bbbbbb;
     background-size: 120%;
