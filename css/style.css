@@ -185,6 +185,10 @@ img{
     background-image: url(../assets/images/treasure\ hunting.jpg); 
 }
 
+.flex-item a#Pull{
+    background-image: url(../assets/images/pull.jpg); 
+}
+
 .flex-item a:hover{
     color:#bbbbbb;
     background-size: 120%;
